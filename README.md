@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](isaiahp04.github.io/blog-preview-card)
+- Live Site URL: [Live Site](isaiahp04.github.io/blog-preview-card)
 
 ## My process
 
